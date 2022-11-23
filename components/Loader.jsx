@@ -1,6 +1,6 @@
 import React from 'react';
-/* eslint-disable max-len */ 
-export const URI_REGEX = "" // something which is very long
+
+export const URI_REGEX = ''; 
 
 const Loader = () => (
   <div className="text-center">
